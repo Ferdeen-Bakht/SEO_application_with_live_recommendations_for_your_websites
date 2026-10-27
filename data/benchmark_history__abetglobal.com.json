@@ -1,0 +1,74 @@
+[
+  {
+    "ts": "2026-10-19T11:00:35+00:00",
+    "local_score": 85.4,
+    "local_words": 861.9,
+    "competitor_score": 81.4
+  },
+  {
+    "ts": "2026-10-20T10:13:27+00:00",
+    "local_score": 86.0,
+    "local_words": 925.7,
+    "competitor_score": 75.0
+  },
+  {
+    "ts": "2026-10-20T10:22:36+00:00",
+    "local_score": 86.0,
+    "local_words": 925.7,
+    "competitor_score": 77.3
+  },
+  {
+    "ts": "2026-10-20T10:46:33+00:00",
+    "local_score": 84.1,
+    "local_words": 1017.6,
+    "competitor_score": 77.3
+  },
+  {
+    "ts": "2026-10-20T12:08:44+00:00",
+    "local_score": 86.6,
+    "local_words": 953.8,
+    "competitor_score": 81.1
+  },
+  {
+    "ts": "2026-10-21T07:15:54+00:00",
+    "local_score": 86.0,
+    "local_words": 925.7,
+    "competitor_score": 75.2
+  },
+  {
+    "ts": "2026-10-21T07:44:53+00:00",
+    "local_score": 86.0,
+    "local_words": 925.7,
+    "competitor_score": 79.5
+  },
+  {
+    "ts": "2026-10-21T08:28:23+00:00",
+    "local_score": 84.7,
+    "local_words": 796.2,
+    "competitor_score": 82.0
+  },
+  {
+    "ts": "2026-10-22T12:52:26+00:00",
+    "local_score": 84.1,
+    "local_words": 1017.6,
+    "competitor_score": 61.0
+  },
+  {
+    "ts": "2026-10-23T09:15:12+00:00",
+    "local_score": 84.1,
+    "local_words": 1017.6,
+    "competitor_score": 85.2
+  },
+  {
+    "ts": "2026-10-23T09:38:07+00:00",
+    "local_score": 84.1,
+    "local_words": 1017.6,
+    "competitor_score": 77.6
+  },
+  {
+    "ts": "2026-10-26T06:37:51+00:00",
+    "local_score": 84.1,
+    "local_words": 1017.6,
+    "competitor_score": 80.7
+  }
+]

@@ -1,0 +1,188 @@
+{
+  "checked_at": "2026-10-19T13:11:45+00:00",
+  "provider": "searxng",
+  "depth": 30,
+  "our_domain": "zameen.com",
+  "domains": [
+    "zameen.com",
+    "graana.com",
+    "milkiyat.com",
+    "ilaaqa.com",
+    "realstateshop.com",
+    "zillow.com"
+  ],
+  "keywords": [
+    {
+      "keyword": "property search pakistan",
+      "positions": {
+        "zameen.com": 1,
+        "graana.com": 3,
+        "milkiyat.com": 6,
+        "ilaaqa.com": 5,
+        "realstateshop.com": 8,
+        "zillow.com": null
+      },
+      "results_fetched": 30,
+      "top": [
+        {
+          "pos": 1,
+          "url": "https://www.zameen.com/",
+          "title": "Zameen.com: Buy, Sell and Rent Property in Pakistan"
+        },
+        {
+          "pos": 2,
+          "url": "https://pakistanproperty.com/",
+          "title": "Pakistan Property: Find & List Best Properties in Pakistan - Search ..."
+        },
+        {
+          "pos": 3,
+          "url": "https://www.graana.com/",
+          "title": "Graana.com: Pakistan's 1st Online Real Estate Market Place"
+        },
+        {
+          "pos": 4,
+          "url": "https://sindhzameen.gos.pk/",
+          "title": "Board of Revenue, Sindh — Sindh Zameen Platform"
+        },
+        {
+          "pos": 5,
+          "url": "https://ilaaqa.com/",
+          "title": "Find Properties in Pakistan on ilaaqa"
+        },
+        {
+          "pos": 6,
+          "url": "https://milkiyat.com/",
+          "title": "Buy, Rent, Sell Properties in Pakistan"
+        },
+        {
+          "pos": 7,
+          "url": "https://chapals.com/blog/check-property-ownership/",
+          "title": "How To Check Property Ownership In Pakistan - A Complete Guide"
+        },
+        {
+          "pos": 8,
+          "url": "https://www.realstateshop.com/",
+          "title": "Pakistan's Largest Real Estate Website - Buy & Sell Properties Online"
+        },
+        {
+          "pos": 9,
+          "url": "https://digitalmarketingservices.pk/blog/property-websites-in-pakistan/",
+          "title": "Top 10 Property Websites in Pakistan 2025 | Best Real Estate Portals"
+        },
+        {
+          "pos": 10,
+          "url": "https://www.globallistings.com/pakistan-property-search?tk=a3370d9394838eaed5e14b5ef8de704f",
+          "title": "Pakistan Property Listings Search | GLOBAL LISTINGS"
+        }
+      ],
+      "verify_url": "http://127.0.0.1:8080/search?q=property+search+pakistan"
+    },
+    {
+      "keyword": "real estate portal pakistan",
+      "positions": {
+        "zameen.com": 1,
+        "graana.com": 2,
+        "milkiyat.com": 4,
+        "ilaaqa.com": 5,
+        "realstateshop.com": 6,
+        "zillow.com": null
+      },
+      "results_fetched": 20,
+      "top": [
+        {
+          "pos": 1,
+          "url": "https://www.zameen.com/",
+          "title": "Zameen.com: Buy, Sell and Rent Property in Pakistan"
+        },
+        {
+          "pos": 2,
+          "url": "https://www.graana.com/",
+          "title": "Graana.com: Pakistan's 1st Online Real Estate Market Place"
+        },
+        {
+          "pos": 3,
+          "url": "https://pakistanproperty.com/",
+          "title": "Pakistan Property: Find & List Best Properties in Pakistan - Search ..."
+        },
+        {
+          "pos": 4,
+          "url": "https://milkiyat.com/",
+          "title": "Buy, Rent, Sell Properties in Pakistan"
+        },
+        {
+          "pos": 5,
+          "url": "https://ilaaqa.com/",
+          "title": "Find Properties in Pakistan on ilaaqa"
+        },
+        {
+          "pos": 6,
+          "url": "https://www.realstateshop.com/",
+          "title": "Pakistan's Largest Real Estate Website - Buy & Sell Properties Online"
+        },
+        {
+          "pos": 7,
+          "url": "https://digitalmarketingservices.pk/blog/property-websites-in-pakistan/",
+          "title": "Top 10 Property Websites in Pakistan 2025 | Best Real Estate Portals"
+        },
+        {
+          "pos": 8,
+          "url": "https://play.google.com/store/apps/details?id=com.zameen.zameenapp&hl=en_NZ",
+          "title": "Zameen - Real Estate Portal – Apps on Google Play"
+        },
+        {
+          "pos": 9,
+          "url": "https://rightdeed.com/",
+          "title": "Real Estate Pakistan | Buy, Sell or Rent a Property in Pakistan ..."
+        },
+        {
+          "pos": 10,
+          "url": "https://apps.apple.com/us/app/graana-real-estate-portal/id1438849353",
+          "title": "Graana: Real Estate Portal - App Store - Apple"
+        }
+      ],
+      "verify_url": "http://127.0.0.1:8080/search?q=real+estate+portal+pakistan"
+    },
+    {
+      "keyword": "find property for sale",
+      "positions": {
+        "zameen.com": null,
+        "graana.com": null,
+        "milkiyat.com": null,
+        "ilaaqa.com": null,
+        "realstateshop.com": null,
+        "zillow.com": null
+      },
+      "results_fetched": 0,
+      "top": [],
+      "verify_url": "http://127.0.0.1:8080/search?q=find+property+for+sale"
+    },
+    {
+      "keyword": "property for rent pakistan",
+      "positions": {
+        "zameen.com": null,
+        "graana.com": null,
+        "milkiyat.com": null,
+        "ilaaqa.com": null,
+        "realstateshop.com": null,
+        "zillow.com": null
+      },
+      "results_fetched": 0,
+      "top": [],
+      "verify_url": "http://127.0.0.1:8080/search?q=property+for+rent+pakistan"
+    },
+    {
+      "keyword": "pakistan real estate",
+      "positions": {
+        "zameen.com": null,
+        "graana.com": null,
+        "milkiyat.com": null,
+        "ilaaqa.com": null,
+        "realstateshop.com": null,
+        "zillow.com": null
+      },
+      "results_fetched": 0,
+      "top": [],
+      "verify_url": "http://127.0.0.1:8080/search?q=pakistan+real+estate"
+    }
+  ]
+}

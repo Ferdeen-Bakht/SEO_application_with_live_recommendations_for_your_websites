@@ -1,0 +1,33 @@
+HOW TO RUN THE AI SEO LAB (Windows PowerShell)
+==============================================
+Project folder: C:\Users\User\projects\AI_SEO_on_live_website
+Target site (read-only): https://appcreatorz.com   (change SITE_URL in python\.env)
+
+You need 2 things: Ollama (local AI, normally auto-starts) and the dashboard.
+
+ONE-TIME SETUP
+   cd C:\Users\User\projects\AI_SEO_on_live_website\python
+   py -3.13 -m venv .venv
+   .venv\Scripts\python.exe -m pip install -r requirements.txt
+   copy .env.example .env
+   & "$env:LOCALAPPDATA\Programs\Ollama\ollama.exe" pull qwen2.5:3b
+
+EVERY TIME
+   cd C:\Users\User\projects\AI_SEO_on_live_website\python
+   .venv\Scripts\python.exe -m streamlit run streamlit_app.py
+   Open http://localhost:8501   (Ctrl+C to stop)
+
+SUGGESTED ORDER
+   1. Crawl & audit  -> site-wide findings
+   2. Competitor benchmark -> crawl our site, then competitors
+   3. Rankings vs competitors -> keyword positions (needs SearXNG or Mojeek API, see README) + on-page leaderboard
+   4. Suggestions -> AI rewrite ideas per page (uses 2 and 3) -> 5. Saved suggestions (download)
+
+RESET
+   Delete data\*.json, data\exports\*.csv and data\seo_lab.db (with the dashboard stopped).
+
+TROUBLESHOOTING
+ - "Could not start the 'msedge' browser": set BROWSER_CHANNEL=chrome in python\.env.
+ - "Cannot connect to Ollama": start Ollama and check "ollama list" shows qwen2.5:3b.
+ - A competitor returns 403: it blocks automated tools; remove it from the list (do not try to bypass).
+ - The first AI analysis can take 30-60 seconds while the model loads.

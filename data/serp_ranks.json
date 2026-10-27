@@ -1,0 +1,239 @@
+{
+  "checked_at": "2026-10-16T14:31:29+00:00",
+  "provider": "searxng",
+  "depth": 30,
+  "our_domain": "appcreatorz.com",
+  "domains": [
+    "appcreatorz.com",
+    "10pearls.com",
+    "devsinc.com",
+    "folio3.com",
+    "netsolutions.com",
+    "tkxel.com"
+  ],
+  "keywords": [
+    {
+      "keyword": "software development company",
+      "positions": {
+        "appcreatorz.com": null,
+        "10pearls.com": 24,
+        "devsinc.com": null,
+        "folio3.com": null,
+        "netsolutions.com": null,
+        "tkxel.com": null
+      },
+      "results_fetched": 30,
+      "top": [
+        {
+          "pos": 1,
+          "url": "https://www.itransition.com/software-development",
+          "title": "Custom Software Development Company: Our Services & Solutions"
+        },
+        {
+          "pos": 2,
+          "url": "https://clutch.co/developers",
+          "title": "Top Software Development Companies - Oct 2026 Rankings - Clutch"
+        },
+        {
+          "pos": 3,
+          "url": "https://www.microsoft.com/en-us/software-development-companies/resources/articles/what-is",
+          "title": "What is a Software Development Company? | Software ... - Microsoft"
+        },
+        {
+          "pos": 4,
+          "url": "https://techreviewer.co/top-software-development-companies",
+          "title": "Top 100+ Software Development Companies in 2026 - Techreviewer"
+        },
+        {
+          "pos": 5,
+          "url": "https://www.scnsoft.com/",
+          "title": "ScienceSoft: Software Development Company"
+        },
+        {
+          "pos": 6,
+          "url": "https://blackthorn-vision.com/blog/top-software-development-companies-in-the-usa/",
+          "title": "Top 30 Software Development Companies in the USA: Our Shortlist"
+        },
+        {
+          "pos": 7,
+          "url": "https://www.toptal.com/services/technology-services/custom-software-development",
+          "title": "Custom Software Development Services | Toptal®"
+        },
+        {
+          "pos": 8,
+          "url": "https://www.fortegrp.com/insights/top-19-software-development-companies-in-the-usa",
+          "title": "Top 19 Software Development Companies in the USA - Forte Group"
+        },
+        {
+          "pos": 9,
+          "url": "https://andersenlab.com/",
+          "title": "Andersen: Software Development Company"
+        },
+        {
+          "pos": 10,
+          "url": "https://www.designrush.com/agency/software-development/us",
+          "title": "Top Software Development Companies in the USA | 2026"
+        }
+      ],
+      "verify_url": "http://127.0.0.1:8080/search?q=software+development+company"
+    },
+    {
+      "keyword": "custom web application development",
+      "positions": {
+        "appcreatorz.com": null,
+        "10pearls.com": null,
+        "devsinc.com": null,
+        "folio3.com": null,
+        "netsolutions.com": null,
+        "tkxel.com": null
+      },
+      "results_fetched": 30,
+      "top": [
+        {
+          "pos": 1,
+          "url": "https://neurosys.com/services/custom-web-application-development",
+          "title": "Custom Web Application Development Services Company | NeuroSYS"
+        },
+        {
+          "pos": 2,
+          "url": "https://elementor.com/blog/what-are-custom-web-applications/",
+          "title": "What Are Custom Web Applications? The In-Depth Guide for 2026"
+        },
+        {
+          "pos": 3,
+          "url": "https://www.scnsoft.com/web-development/application/custom",
+          "title": "Custom Web Application Development Company - ScienceSoft"
+        },
+        {
+          "pos": 4,
+          "url": "https://www.goidp.com/web-development/",
+          "title": "Custom Web Development & Web Application Development - IDP"
+        },
+        {
+          "pos": 5,
+          "url": "https://scopicsoftware.com/blog/custom-web-application-development/",
+          "title": "Custom Web Application Development - Scopic Software"
+        },
+        {
+          "pos": 6,
+          "url": "https://leanware.co/insights/custom-web-application-development-guide",
+          "title": "Custom Web Application Development Guide | Processes - Leanware"
+        },
+        {
+          "pos": 7,
+          "url": "https://lform.com/blog/post/the-9-biggest-reasons-you-should-go-with-custom-web-application-development/",
+          "title": "The 9 Biggest Reasons You Should Go With Custom Web ..."
+        },
+        {
+          "pos": 8,
+          "url": "https://www.expedition.co/services/development/web-app",
+          "title": "Custom Web Application Development Services Company"
+        },
+        {
+          "pos": 9,
+          "url": "https://www.midis.eu/en/blog/our-blog-1/what-is-custom-web-application-development-36",
+          "title": "What is Custom Web Application Development? - Midis"
+        },
+        {
+          "pos": 10,
+          "url": "https://www.weweb.io/blog/custom-web-app-development-guide",
+          "title": "Custom Web App Development in 2026: How to Build, What It Costs ..."
+        }
+      ],
+      "verify_url": "http://127.0.0.1:8080/search?q=custom+web+application+development"
+    },
+    {
+      "keyword": "mobile app development company",
+      "positions": {
+        "appcreatorz.com": null,
+        "10pearls.com": 18,
+        "devsinc.com": null,
+        "folio3.com": 17,
+        "netsolutions.com": null,
+        "tkxel.com": null
+      },
+      "results_fetched": 20,
+      "top": [
+        {
+          "pos": 1,
+          "url": "https://clutch.co/directory/mobile-application-developers",
+          "title": "Top Mobile App Development Companies - Oct 2026 Rankings"
+        },
+        {
+          "pos": 2,
+          "url": "https://www.classicinformatics.com/blog/top-10-mobile-app-development-companies-in-usa-2026",
+          "title": "Top 14 Mobile App Development Companies in USA 2026"
+        },
+        {
+          "pos": 3,
+          "url": "https://www.appmaisters.com/mobile-app-development/",
+          "title": "Mobile App Development Company | App Maisters"
+        },
+        {
+          "pos": 4,
+          "url": "https://www.businessofapps.com/app-developers/",
+          "title": "Top App Development Companies (2026) - Business of Apps"
+        },
+        {
+          "pos": 5,
+          "url": "https://appinventiv.com/mobile-app-development-services/",
+          "title": "Top Mobile App Development Company - Appinventiv"
+        },
+        {
+          "pos": 6,
+          "url": "https://www.linkedin.com/pulse/top-mobile-app-development-companies-usa-august-2026-updated-nrwtc",
+          "title": "Top Mobile App Development Companies in the USA - LinkedIn"
+        },
+        {
+          "pos": 7,
+          "url": "https://themanifest.com/app-development/companies",
+          "title": "The Best Mobile App Development Companies - Oct 2026 - Manifest"
+        },
+        {
+          "pos": 8,
+          "url": "https://application.trangotech.com/",
+          "title": "Mobile App Development Company | Top USA Developers"
+        },
+        {
+          "pos": 9,
+          "url": "https://www.techaheadcorp.com/blog/app-development-companies-in-usa/",
+          "title": "Top Mobile App Development Companies in USA (2026) - TechAhead"
+        },
+        {
+          "pos": 10,
+          "url": "https://www.reddit.com/r/startups/comments/1fkxmmp/what_is_the_best_app_development_company_i_can/",
+          "title": "What is the best app development company I can commission for an ..."
+        }
+      ],
+      "verify_url": "http://127.0.0.1:8080/search?q=mobile+app+development+company"
+    },
+    {
+      "keyword": "web and mobile app development services",
+      "positions": {
+        "appcreatorz.com": null,
+        "10pearls.com": null,
+        "devsinc.com": null,
+        "folio3.com": null,
+        "netsolutions.com": null,
+        "tkxel.com": null
+      },
+      "results_fetched": 0,
+      "top": [],
+      "verify_url": "http://127.0.0.1:8080/search?q=web+and+mobile+app+development+services"
+    },
+    {
+      "keyword": "digital solutions for businesses",
+      "positions": {
+        "appcreatorz.com": null,
+        "10pearls.com": null,
+        "devsinc.com": null,
+        "folio3.com": null,
+        "netsolutions.com": null,
+        "tkxel.com": null
+      },
+      "results_fetched": 0,
+      "top": [],
+      "verify_url": "http://127.0.0.1:8080/search?q=digital+solutions+for+businesses"
+    }
+  ]
+}

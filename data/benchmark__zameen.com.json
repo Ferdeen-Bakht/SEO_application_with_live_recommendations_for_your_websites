@@ -1,0 +1,88 @@
+{
+  "created_at": "2026-10-22T10:16:14+00:00",
+  "local_site": "zameen.com",
+  "competitors": [
+    "graana.com",
+    "myproperty.com.pk",
+    "propertybazar.pk"
+  ],
+  "local_summary": {
+    "pages": 16.0,
+    "score": 83.2,
+    "title_len": 56.7,
+    "desc_len": 174.2,
+    "h2_count": 12.0,
+    "word_count": 1280.0,
+    "image_count": 42.2,
+    "alt_coverage": 69.6,
+    "internal_links": 130.8,
+    "external_links": 53.2,
+    "url_depth": 1.4,
+    "has_jsonld": 56.2,
+    "has_canonical": 93.8
+  },
+  "competitor_average": {
+    "pages": 16.0,
+    "score": 64.86666666666667,
+    "title_len": 48.53333333333333,
+    "desc_len": 78.46666666666667,
+    "h2_count": 2.2333333333333334,
+    "word_count": 411.06666666666666,
+    "image_count": 18.000000000000004,
+    "alt_coverage": 87.60000000000001,
+    "internal_links": 56.06666666666667,
+    "external_links": 3.3333333333333335,
+    "url_depth": 1.4333333333333333,
+    "has_jsonld": 66.66666666666667,
+    "has_canonical": 81.66666666666667
+  },
+  "insights": [
+    {
+      "area": "Structured data (% pages)",
+      "local": "56",
+      "competitors": "67",
+      "recommendation": "Competitors publish JSON-LD. Add schema.org markup to the site template (developer task).",
+      "priority": "medium"
+    },
+    {
+      "area": "Image alt text (%)",
+      "local": "70",
+      "competitors": "88",
+      "recommendation": "Add descriptive alt text to every image.",
+      "priority": "high"
+    },
+    {
+      "area": "Meta description length",
+      "local": "174",
+      "competitors": "78",
+      "recommendation": "Write page-specific descriptions of roughly 70-160 characters.",
+      "priority": "medium"
+    }
+  ],
+  "keyword_gaps": [
+    {
+      "term": "agent",
+      "competitor_sites": 2
+    },
+    {
+      "term": "blog",
+      "competitor_sites": 2
+    },
+    {
+      "term": "guides",
+      "competitor_sites": 2
+    },
+    {
+      "term": "trusted",
+      "competitor_sites": 2
+    },
+    {
+      "term": "works",
+      "competitor_sites": 2
+    },
+    {
+      "term": "yet",
+      "competitor_sites": 2
+    }
+  ]
+}

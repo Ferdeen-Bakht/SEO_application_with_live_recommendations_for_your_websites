@@ -1,0 +1,11 @@
+use_default_settings: true
+general:
+  instance_name: "local-seo-lab"
+search:
+  formats: [html, json]
+server:
+  bind_address: "127.0.0.1"
+  port: 8080
+  secret_key: "d1ddd27bb3c516b33ec1f1538f5b0205834b510f1d947683"
+  limiter: false
+  public_instance: false

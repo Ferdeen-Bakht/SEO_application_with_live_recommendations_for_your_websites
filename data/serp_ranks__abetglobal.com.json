@@ -1,0 +1,408 @@
+{
+  "checked_at": "2026-10-26T08:06:54+00:00",
+  "provider": "searxng",
+  "depth": 30,
+  "our_domain": "abetglobal.com",
+  "domains": [
+    "abetglobal.com",
+    "home.saxo",
+    "tastyfx.com",
+    "schwab.com",
+    "forex.tradingcharts.com"
+  ],
+  "keywords": [
+    {
+      "keyword": "forex broker",
+      "positions": {
+        "abetglobal.com": null,
+        "home.saxo": 25,
+        "tastyfx.com": 11,
+        "schwab.com": 16,
+        "forex.tradingcharts.com": 7
+      },
+      "urls": {
+        "abetglobal.com": null,
+        "home.saxo": "https://www.home.saxo/products/forex",
+        "tastyfx.com": "https://www.tastyfx.com/",
+        "schwab.com": "https://www.schwab.com/forex",
+        "forex.tradingcharts.com": "https://forex.tradingcharts.com/forex_broker/"
+      },
+      "hits": {
+        "forex.tradingcharts.com": {
+          "url": "https://forex.tradingcharts.com/forex_broker/",
+          "title": "Forex Broker List",
+          "snippet": "Forex Broker List ; IBFX, NFA(US), CFTC(US), Up to 100:1 ; ICM Captial, FSA United Kingdom, 1:100 ; 1:200 ; Integer Capital Markets LTD ( NZD ), Up to 1:500 ..."
+        },
+        "tastyfx.com": {
+          "url": "https://www.tastyfx.com/",
+          "title": "tastyfx US Forex Broker: Trade Forex Online",
+          "snippet": "Follow. tastyfx, LLC (“tastyfx”) is a Commodity Futures Trading Commission (“CFTC”) registered Retail Foreign Exchange Dealer (RFED) and Introducing Broker (IB) ..."
+        },
+        "schwab.com": {
+          "url": "https://www.schwab.com/forex",
+          "title": "Charles Schwab Futures and Forex",
+          "snippet": "Forex is a global market where one nation's currency can be exchanged for another. Experience commission-free forex trading using Schwab's thinkorswim ..."
+        },
+        "home.saxo": {
+          "url": "https://www.home.saxo/products/forex",
+          "title": "Forex Trading | Trade FX Online - Saxo Bank",
+          "snippet": "With a Saxo account, you can trade currencies as spot, options, swaps, and forwards. You can check out some of our forex offering in our trading platform before ..."
+        }
+      },
+      "results_fetched": 30,
+      "top": [
+        {
+          "pos": 1,
+          "url": "https://www.forexbrokers.com/",
+          "title": "Online Forex Broker Reviews and Ratings | ForexBrokers.com"
+        },
+        {
+          "pos": 2,
+          "url": "https://www.forexbrokers.com/guides/forex-trading",
+          "title": "Best Forex Brokers for 2026 (Worldwide) | ForexBrokers.com"
+        },
+        {
+          "pos": 3,
+          "url": "https://www.oanda.com/us-en/trading/forex/",
+          "title": "Online FX Trading Broker | Currency Trading| FX Markets - Oanda"
+        },
+        {
+          "pos": 4,
+          "url": "https://thefxgeek.com/best-forex-brokers",
+          "title": "8 Best Forex Brokers 2026: Ranked & Reviewed | TheFXGeek"
+        },
+        {
+          "pos": 5,
+          "url": "https://www.fxempire.com/brokers/best/forex",
+          "title": "10 Best Forex Brokers for 2026"
+        },
+        {
+          "pos": 6,
+          "url": "https://www.investopedia.com/best-brokers-for-forex-trading-4587882",
+          "title": "Best Forex Brokers for October 2026 - Investopedia"
+        },
+        {
+          "pos": 7,
+          "url": "https://forex.tradingcharts.com/forex_broker/",
+          "title": "Forex Broker List"
+        },
+        {
+          "pos": 8,
+          "url": "https://www.topratedforexbrokers.com/all-sites/",
+          "title": "Top Forex Broker Reviews - Updated Weekly in 2026"
+        },
+        {
+          "pos": 9,
+          "url": "https://www.forexcracked.com/forex-brokers/",
+          "title": "Best Forex Brokers - ForexCracked"
+        },
+        {
+          "pos": 10,
+          "url": "https://www.forex.com/en-us/",
+          "title": "Forex Trading Online - No. 1 Forex Broker in the US* - FX Markets ..."
+        }
+      ],
+      "verify_url": "http://127.0.0.1:8080/search?q=forex+broker"
+    },
+    {
+      "keyword": "crypto trading platform",
+      "positions": {
+        "abetglobal.com": null,
+        "home.saxo": null,
+        "tastyfx.com": null,
+        "schwab.com": null,
+        "forex.tradingcharts.com": null
+      },
+      "urls": {
+        "abetglobal.com": null,
+        "home.saxo": null,
+        "tastyfx.com": null,
+        "schwab.com": null,
+        "forex.tradingcharts.com": null
+      },
+      "hits": {},
+      "results_fetched": 30,
+      "top": [
+        {
+          "pos": 1,
+          "url": "https://www.oanda.com/us-en/trading/cryptocurrencies/",
+          "title": "Trade Crypto with OANDA & Paxos | Secure crypto trading platform"
+        },
+        {
+          "pos": 2,
+          "url": "https://crypto.news/best-crypto-exchanges/",
+          "title": "Best crypto exchanges and apps for March 2026"
+        },
+        {
+          "pos": 3,
+          "url": "https://icobench.com/exchanges/crypto-trading-platforms/",
+          "title": "Best Crypto Trading Platforms for 2026 | Top 5 Exchanges"
+        },
+        {
+          "pos": 4,
+          "url": "https://www.binance.us/",
+          "title": "Binance.US: Buy, Sell, Trade & Stake Cryptocurrency | U.S. Crypto ..."
+        },
+        {
+          "pos": 5,
+          "url": "https://usethebitcoin.com/guides/best-crypto-trading-platform/",
+          "title": "Best Crypto Trading Platforms Compared for 2026"
+        },
+        {
+          "pos": 6,
+          "url": "https://www.binance.com/",
+          "title": "Binance Crypto Exchange: Buy, Sell Bitcoin, Ethereum, Stocks & More"
+        },
+        {
+          "pos": 7,
+          "url": "https://investlane.com/cryptocurrency-platforms",
+          "title": "Best Cryptocurrency Exchanges and Platforms for October 2026"
+        },
+        {
+          "pos": 8,
+          "url": "https://www.kraken.com/learn/best-crypto-apps",
+          "title": "Best Crypto Apps for 2026: Trade Confidently on a Phone - Kraken"
+        },
+        {
+          "pos": 9,
+          "url": "https://www.forbes.com/advisor/investing/cryptocurrency/best-crypto-exchanges/",
+          "title": "10 Best Crypto Exchanges Of 2026 - Forbes"
+        },
+        {
+          "pos": 10,
+          "url": "https://www.nerdwallet.com/investing/best/crypto-exchanges-platforms",
+          "title": "The 8 Best Crypto Exchanges, Platforms & Apps for 2026 - NerdWallet"
+        }
+      ],
+      "verify_url": "http://127.0.0.1:8080/search?q=crypto+trading+platform"
+    },
+    {
+      "keyword": "gold trading platform",
+      "positions": {
+        "abetglobal.com": null,
+        "home.saxo": null,
+        "tastyfx.com": null,
+        "schwab.com": null,
+        "forex.tradingcharts.com": null
+      },
+      "urls": {
+        "abetglobal.com": null,
+        "home.saxo": null,
+        "tastyfx.com": null,
+        "schwab.com": null,
+        "forex.tradingcharts.com": null
+      },
+      "hits": {},
+      "results_fetched": 30,
+      "top": [
+        {
+          "pos": 1,
+          "url": "https://www.forex.com/en/gold-silver-trading/",
+          "title": "Gold and Silver Trading - Precious Metals Trading - FOREX.com"
+        },
+        {
+          "pos": 2,
+          "url": "https://www.vantagemarkets.com/academy/best-gold-trading-platforms/",
+          "title": "8 Best Gold Trading Platforms in 2026: Which Is Best For You?"
+        },
+        {
+          "pos": 3,
+          "url": "https://www.forexbrokers.com/guides/best-gold-trading-platforms",
+          "title": "5 Best Gold Trading Platforms for 2026 | ForexBrokers.com"
+        },
+        {
+          "pos": 4,
+          "url": "https://www.interactivebrokers.com/en/trading/products-metals.php",
+          "title": "US Spot Gold | Interactive Brokers LLC"
+        },
+        {
+          "pos": 5,
+          "url": "https://www.puprime.com/5-best-gold-trading-platforms-compared-by-trading-style/",
+          "title": "5 Best Gold Trading Platforms Compared by Trading Style - PU Prime"
+        },
+        {
+          "pos": 6,
+          "url": "https://www.youtube.com/watch?v=bNGxEBo07pw&vl=en",
+          "title": "3 Best GOLD Trading Platforms in the USA (2026 Guide) - YouTube"
+        },
+        {
+          "pos": 7,
+          "url": "https://www.vtmarkets.com/precious-metals/xauusd/",
+          "title": "Trade XAUUSD Gold CFDs & View Live Gold Prices - VT Markets"
+        },
+        {
+          "pos": 8,
+          "url": "https://m4markets.com/education/best-gold-trading-apps/",
+          "title": "6 Best Gold Trading Apps: Charts, Execution & Risk - M4Markets"
+        },
+        {
+          "pos": 9,
+          "url": "https://www.wikifx.com/en/best/best-gold-brokers.html",
+          "title": "4 Best Gold Brokers of 2026 - WikiFX"
+        },
+        {
+          "pos": 10,
+          "url": "https://www.fxempire.com/brokers/best/gold",
+          "title": "13 Best Gold Trading Brokers for 2026"
+        }
+      ],
+      "verify_url": "http://127.0.0.1:8080/search?q=gold+trading+platform"
+    },
+    {
+      "keyword": "forex broker reviews",
+      "positions": {
+        "abetglobal.com": null,
+        "home.saxo": null,
+        "tastyfx.com": 27,
+        "schwab.com": null,
+        "forex.tradingcharts.com": null
+      },
+      "urls": {
+        "abetglobal.com": null,
+        "home.saxo": null,
+        "tastyfx.com": "https://www.tastyfx.com/",
+        "schwab.com": null,
+        "forex.tradingcharts.com": null
+      },
+      "hits": {
+        "tastyfx.com": {
+          "url": "https://www.tastyfx.com/",
+          "title": "tastyfx US Forex Broker: Trade Forex Online",
+          "snippet": "Trade forex online with the US top forex broker. Access over 80 currency pairs with spreads as low as 0.8 pips. Trade FX on our award-winning trading ..."
+        }
+      },
+      "results_fetched": 30,
+      "top": [
+        {
+          "pos": 1,
+          "url": "https://www.forexbrokers.com/reviews",
+          "title": "Forex Broker Reviews 2026 | ForexBrokers.com"
+        },
+        {
+          "pos": 2,
+          "url": "https://www.myfxbook.com/reviews/brokers/9,1",
+          "title": "Best Forex Brokers Reviews 2026 - Myfxbook.com"
+        },
+        {
+          "pos": 3,
+          "url": "https://www.wikifx.com/en/wikifxranking.html",
+          "title": "Best Forex Brokers in 2026-Rankings of Brokers-WikiFX"
+        },
+        {
+          "pos": 4,
+          "url": "https://www.trustpilot.com/review/topfxbrokersreview.com",
+          "title": "top forex brokers review - Trustpilot"
+        },
+        {
+          "pos": 5,
+          "url": "https://www.stockbrokers.com/guides/best-forex-brokers",
+          "title": "5 Best US Forex Brokers for 2026 - StockBrokers.com"
+        },
+        {
+          "pos": 6,
+          "url": "https://www.investopedia.com/forex-brokers-4689771",
+          "title": "Forex Brokers - Investopedia"
+        },
+        {
+          "pos": 7,
+          "url": "https://www.trustpilot.com/review/www.forex.com",
+          "title": "Read Customer Service Reviews of www.forex.com - Trustpilot"
+        },
+        {
+          "pos": 8,
+          "url": "https://www.forexpeacearmy.com/",
+          "title": "ForexPeaceArmy broker reviews: 100% human moderated traders ..."
+        },
+        {
+          "pos": 9,
+          "url": "https://www.wikifx.com/en/dealer/0001378443.html",
+          "title": "Forex.com Review 2026 - WikiFX"
+        },
+        {
+          "pos": 10,
+          "url": "https://www.compareforexbrokers.com/reviews/",
+          "title": "Forex Broker Reviews to Compare Accounts for 2026 (Updated)"
+        }
+      ],
+      "verify_url": "http://127.0.0.1:8080/search?q=forex+broker+reviews"
+    },
+    {
+      "keyword": "abet global forex broker",
+      "positions": {
+        "abetglobal.com": 1,
+        "home.saxo": null,
+        "tastyfx.com": null,
+        "schwab.com": null,
+        "forex.tradingcharts.com": null
+      },
+      "urls": {
+        "abetglobal.com": "https://abetglobal.com/",
+        "home.saxo": null,
+        "tastyfx.com": null,
+        "schwab.com": null,
+        "forex.tradingcharts.com": null
+      },
+      "hits": {
+        "abetglobal.com": {
+          "url": "https://abetglobal.com/",
+          "title": "Multi-Asset Broker for Forex, Gold & Crypto CFDs | ABET",
+          "snippet": "Yes, Abet Global is a legitimate financial services provider operating internationally. The company follows structured processes and transparent practices to ..."
+        }
+      },
+      "results_fetched": 30,
+      "top": [
+        {
+          "pos": 1,
+          "url": "https://abetglobal.com/",
+          "title": "Multi-Asset Broker for Forex, Gold & Crypto CFDs | ABET"
+        },
+        {
+          "pos": 2,
+          "url": "https://abetmarkets.com/",
+          "title": "ABET | Global Forex, CFD & Crypto Broker"
+        },
+        {
+          "pos": 3,
+          "url": "https://abetglobal.com/forex/",
+          "title": "Forex Trading with ABET: 50+ Pairs, 1:1000 Leverage"
+        },
+        {
+          "pos": 4,
+          "url": "https://secure.abetglobal.com/",
+          "title": "ABET - Global Forex, CFDs, & Crypto Broker"
+        },
+        {
+          "pos": 5,
+          "url": "http://secure.abetglobal.com/login",
+          "title": "Overview | Global Forex, CFDs, & Crypto Broker"
+        },
+        {
+          "pos": 6,
+          "url": "https://secure.abetglobal.com/register",
+          "title": "Register | Global Forex, CFDs & Crypto Broker"
+        },
+        {
+          "pos": 7,
+          "url": "https://webtrading.abetglobal.com/terminal",
+          "title": "Terminal: Abet LLC"
+        },
+        {
+          "pos": 8,
+          "url": "https://forex.wikibit.com/en/brokers/info/abet-global-3987969420.html",
+          "title": "ABET Forex Broker/FX/Capital 2026 - ️Pros & Cons"
+        },
+        {
+          "pos": 9,
+          "url": "https://abetglobal.com/about/",
+          "title": "About ABET: Company, Registration & Contact - ABET LLC"
+        },
+        {
+          "pos": 10,
+          "url": "https://www.wikifx.com/en/dealer/3987969420.html",
+          "title": "ABET Review, Forex Broker&Trading Markets, Legit or a Scam-WikiFX"
+        }
+      ],
+      "verify_url": "http://127.0.0.1:8080/search?q=abet+global+forex+broker"
+    }
+  ]
+}

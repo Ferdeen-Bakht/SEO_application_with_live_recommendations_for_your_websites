@@ -1,0 +1,68 @@
+{
+  "created_at": "2026-10-19T10:25:48+00:00",
+  "local_site": "appcreatorz.com",
+  "competitors": [
+    "xmwebsite.net"
+  ],
+  "local_summary": {
+    "pages": 5.0,
+    "score": 63.8,
+    "title_len": 42.0,
+    "desc_len": 156.0,
+    "h2_count": 1.6,
+    "word_count": 272.8,
+    "image_count": 2.8,
+    "alt_coverage": 100.0,
+    "internal_links": 26.2,
+    "external_links": 0.0,
+    "url_depth": 0.8,
+    "has_jsonld": 0.0,
+    "has_canonical": 0.0
+  },
+  "competitor_average": {
+    "pages": 3.0,
+    "score": 61.0,
+    "title_len": 42.0,
+    "desc_len": 101.3,
+    "h2_count": 3.0,
+    "word_count": 215.7,
+    "image_count": 12.3,
+    "alt_coverage": 96.0,
+    "internal_links": 53.3,
+    "external_links": 3.0,
+    "url_depth": 1.0,
+    "has_jsonld": 66.7,
+    "has_canonical": 0.0
+  },
+  "insights": [
+    {
+      "area": "Subheadings (H2)",
+      "local": "1.6",
+      "competitors": "3.0",
+      "recommendation": "Competitors break topics into more sections. Add descriptive subheadings.",
+      "priority": "medium"
+    },
+    {
+      "area": "Structured data (% pages)",
+      "local": "0",
+      "competitors": "67",
+      "recommendation": "Competitors publish JSON-LD. Add schema.org markup to the site template (developer task).",
+      "priority": "medium"
+    },
+    {
+      "area": "Images per page",
+      "local": "2.8",
+      "competitors": "12.3",
+      "recommendation": "Competitors use more imagery. Add relevant images with alt text.",
+      "priority": "low"
+    },
+    {
+      "area": "Internal links",
+      "local": "26",
+      "competitors": "53",
+      "recommendation": "Link related guides together so visitors and crawlers can navigate between topics.",
+      "priority": "low"
+    }
+  ],
+  "keyword_gaps": []
+}

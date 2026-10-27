@@ -1,0 +1,341 @@
+{
+  "checked_at": "2026-10-19T11:36:43+00:00",
+  "provider": "searxng",
+  "depth": 30,
+  "our_domain": "trading.com",
+  "domains": [
+    "trading.com",
+    "ig.com",
+    "pepperstone.com",
+    "xlence.com",
+    "dl.acm.org",
+    "investor.gov"
+  ],
+  "keywords": [
+    {
+      "keyword": "cfd provider",
+      "positions": {
+        "trading.com": null,
+        "ig.com": 2,
+        "pepperstone.com": null,
+        "xlence.com": null,
+        "dl.acm.org": null,
+        "investor.gov": null
+      },
+      "results_fetched": 30,
+      "top": [
+        {
+          "pos": 1,
+          "url": "https://www.forexbrokers.com/guides/cfd-trading",
+          "title": "Best CFD Trading Platforms for 2026 - ForexBrokers.com"
+        },
+        {
+          "pos": 2,
+          "url": "https://www.ig.com/en/cfd-trading",
+          "title": "Open a CFD Account | Trade with the World's Top CFD Provider - IG"
+        },
+        {
+          "pos": 3,
+          "url": "https://www.investing.com/brokers/cfd-brokers/",
+          "title": "Best CFD Brokers - Investing.com"
+        },
+        {
+          "pos": 4,
+          "url": "https://www.vantagemarkets.com/",
+          "title": "Vantage Markets: Trade 1000+ CFDs | Award-Winning Broker"
+        },
+        {
+          "pos": 5,
+          "url": "https://www.fxcm.com/au/accounts/cfd-trading/",
+          "title": "CFD Trading Platform, Brokers & Accounts Online | FXCM Australia"
+        },
+        {
+          "pos": 6,
+          "url": "https://www.resolvedanalytics.com/theflux/top-40-cfd-companies",
+          "title": "A List of 40 Great CFD Consulting Companies | Resolved Analytics"
+        },
+        {
+          "pos": 7,
+          "url": "https://brokerspecs.com/education/cfd-broker",
+          "title": "How to Choose a CFD Broker: What to Look For - BrokerSpecs"
+        },
+        {
+          "pos": 8,
+          "url": "https://www.home.saxo/products/cfds",
+          "title": "CFD Trading | Contracts for Difference | CFDs - Saxo Bank"
+        },
+        {
+          "pos": 9,
+          "url": "https://leverate.com/blog/article/what-is-cfd-trading-broker-strategies-tech-solutions/",
+          "title": "What is CFD Trading? Broker Strategies & Tech Solutions - Leverate"
+        },
+        {
+          "pos": 10,
+          "url": "https://www.ic.com/en/trade-indices",
+          "title": "Foreign Exchange CFD Provider - IC Markets"
+        }
+      ],
+      "verify_url": "http://127.0.0.1:8080/search?q=cfd+provider"
+    },
+    {
+      "keyword": "investment guide",
+      "positions": {
+        "trading.com": null,
+        "ig.com": null,
+        "pepperstone.com": null,
+        "xlence.com": null,
+        "dl.acm.org": null,
+        "investor.gov": 1
+      },
+      "results_fetched": 30,
+      "top": [
+        {
+          "pos": 1,
+          "url": "https://www.investor.gov/introduction-investing",
+          "title": "Introduction to Investing | Investor.gov"
+        },
+        {
+          "pos": 2,
+          "url": "https://www.reddit.com/r/investingforbeginners/comments/1rvt5e7/the_ultimate_beginner_guide_to_investing/",
+          "title": "The Ultimate Beginner Guide to Investing : r/investingforbeginners"
+        },
+        {
+          "pos": 3,
+          "url": "https://www.sec.gov/investor/pubs/tenthingstoconsider.htm",
+          "title": "Ten Things to Consider Before You Make Investing Decisions"
+        },
+        {
+          "pos": 4,
+          "url": "https://www.fidelity.com/learning-center/trading-investing/investing-for-beginners",
+          "title": "Investing for beginners | Investing ideas and planning | Fidelity"
+        },
+        {
+          "pos": 5,
+          "url": "https://www.finra.org/investors/investing/investing-basics",
+          "title": "Investing Basics | FINRA.org"
+        },
+        {
+          "pos": 6,
+          "url": "https://www.moneyhelper.org.uk/en/savings/investing/investing-beginners-guide",
+          "title": "A beginner's guide to investing - MoneyHelper"
+        },
+        {
+          "pos": 7,
+          "url": "https://investor.vanguard.com/investor-resources-education/how-to-invest",
+          "title": "How to invest to reach your financial goals - Vanguard"
+        },
+        {
+          "pos": 8,
+          "url": "https://dfi.wa.gov/financial-education/information/basics-investing-stocks",
+          "title": "The Basics of Investing In Stocks"
+        },
+        {
+          "pos": 9,
+          "url": "https://www.fpinternational.com/documents/inv-beg-guide-row.pdf",
+          "title": "A beginner's guide to investing - Friends Provident International"
+        },
+        {
+          "pos": 10,
+          "url": "https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/guide-to-the-markets/",
+          "title": "Guide to the Markets - J.P. Morgan Asset Management"
+        }
+      ],
+      "verify_url": "http://127.0.0.1:8080/search?q=investment+guide"
+    },
+    {
+      "keyword": "competitive spreads",
+      "positions": {
+        "trading.com": 1,
+        "ig.com": 25,
+        "pepperstone.com": 12,
+        "xlence.com": 6,
+        "dl.acm.org": null,
+        "investor.gov": null
+      },
+      "results_fetched": 30,
+      "top": [
+        {
+          "pos": 1,
+          "url": "https://www.trading.com/us/forex-pricing",
+          "title": "Optimize Your Trades with Competitive Forex Spreads - Trading.com"
+        },
+        {
+          "pos": 2,
+          "url": "https://en.wikipedia.org/wiki/Bid%E2%80%93ask_spread",
+          "title": "Bid–ask spread - Wikipedia"
+        },
+        {
+          "pos": 3,
+          "url": "https://www.quora.com/What-would-be-considered-a-good-spread-I-see-different-brokers-are-charging-different-spreads-and-want-to-know-what-would-be-considered-a-competitive-spread-so-I-know-that-my-current-broker-excentral-is-well-priced",
+          "title": "What would be considered a good spread? I see different brokers ..."
+        },
+        {
+          "pos": 4,
+          "url": "https://blueberrymarkets.com/market-analysis/what-are-competitive-spreads/",
+          "title": "What Are Competitive Spreads in Forex? - Blueberry Markets"
+        },
+        {
+          "pos": 5,
+          "url": "https://www.investopedia.com/terms/s/spread.asp",
+          "title": "Financial Spreads: Definitions and Trading Implications - Investopedia"
+        },
+        {
+          "pos": 6,
+          "url": "https://www.xlence.com/en/trading/spreads/",
+          "title": "Trade with competitive spreads at Xlence"
+        },
+        {
+          "pos": 7,
+          "url": "https://www.dukascopy.com/swiss/english/marketwatch/articles/forex-spread/",
+          "title": "What Is a Spread in Forex Trading and How to Calculate It?"
+        },
+        {
+          "pos": 8,
+          "url": "https://www.forexbrokers.com/guides/zero-spread",
+          "title": "7 Best Low Spread Forex Brokers for 2026 | ForexBrokers.com"
+        },
+        {
+          "pos": 9,
+          "url": "https://doinfx.com/blog-detail/lowest-spread-forex-broker-how-to-choose-a-broker-with-competitive-trading-costs",
+          "title": "How to Choose a Broker With Competitive Trading Costs - Doin FX"
+        },
+        {
+          "pos": 10,
+          "url": "https://www.ic.com/en/trading-pricing/spreads",
+          "title": "Lowest Spreads Forex CFD Provider - IC Markets"
+        }
+      ],
+      "verify_url": "http://127.0.0.1:8080/search?q=competitive+spreads"
+    },
+    {
+      "keyword": "reliable execution",
+      "positions": {
+        "trading.com": null,
+        "ig.com": null,
+        "pepperstone.com": null,
+        "xlence.com": null,
+        "dl.acm.org": 22,
+        "investor.gov": null
+      },
+      "results_fetched": 30,
+      "top": [
+        {
+          "pos": 1,
+          "url": "https://www.inngest.com/blog/principles-of-durable-execution",
+          "title": "The Principles of Durable Execution Explained - Inngest Blog"
+        },
+        {
+          "pos": 2,
+          "url": "https://restate.dev/what-is-durable-execution",
+          "title": "What is Durable Execution? A Definitive Guide - Restate"
+        },
+        {
+          "pos": 3,
+          "url": "https://www.carlosraposocoaching.com/execution-reliability",
+          "title": "Execution Reliability in Leadership Systems | Carlos Raposo"
+        },
+        {
+          "pos": 4,
+          "url": "https://temporal.io/blog/what-is-durable-execution",
+          "title": "The definitive guide to Durable Execution - Temporal"
+        },
+        {
+          "pos": 5,
+          "url": "https://decagon.ai/glossary/what-is-durable-execution",
+          "title": "What is durable execution? Reliable long-running workflows"
+        },
+        {
+          "pos": 6,
+          "url": "https://docs.digitalocean.com/products/managed-agents/action-gateway/concepts/reliable-execution/",
+          "title": "Reliable Execution | DigitalOcean Documentation"
+        },
+        {
+          "pos": 7,
+          "url": "https://www.powerthesaurus.org/reliable_execution/synonyms",
+          "title": "RELIABLE EXECUTION Synonyms: 14 Similar Phrases"
+        },
+        {
+          "pos": 8,
+          "url": "https://www.emsstrategies.com/execution-reliability-book.html",
+          "title": "The Execution Reliability Advantage - EMS Consulting Group Inc."
+        },
+        {
+          "pos": 9,
+          "url": "https://www.youtube.com/watch?v=0iTGtdiqsjk",
+          "title": "Durable Execution: The Essential Abstraction for Reliable Platforms"
+        },
+        {
+          "pos": 10,
+          "url": "https://assets.temporal.io/durable-execution.pdf",
+          "title": "PDF Building Reliable Applications with Durable Execution"
+        }
+      ],
+      "verify_url": "http://127.0.0.1:8080/search?q=reliable+execution"
+    },
+    {
+      "keyword": "secure tools",
+      "positions": {
+        "trading.com": null,
+        "ig.com": null,
+        "pepperstone.com": null,
+        "xlence.com": null,
+        "dl.acm.org": 23,
+        "investor.gov": null
+      },
+      "results_fetched": 30,
+      "top": [
+        {
+          "pos": 1,
+          "url": "https://www.secure-tools.com/",
+          "title": "Power tools, hand tools, professional tools, scaffold tools,"
+        },
+        {
+          "pos": 2,
+          "url": "https://www.securetoolsforworkingatheight.com/",
+          "title": "If you work at height this website is designed to assist you to work ..."
+        },
+        {
+          "pos": 3,
+          "url": "https://www.radians.com/blog/industrial-safety/secure-tools-at-hand",
+          "title": "Secure tools at hand - Radians Safety"
+        },
+        {
+          "pos": 4,
+          "url": "https://securetool.net/?page_id=6",
+          "title": "Shop | Secure Tool & Fasteners"
+        },
+        {
+          "pos": 5,
+          "url": "https://privacytools.io/",
+          "title": "Best Privacy Tools & Software Guide in 2026"
+        },
+        {
+          "pos": 6,
+          "url": "https://www.hkcert.org/resources/security-tools",
+          "title": "Security Tools - HKCert"
+        },
+        {
+          "pos": 7,
+          "url": "https://www.csoonline.com/article/566389/10-essential-enterprise-security-tools-and-11-nice-to-haves.html",
+          "title": "13 essential enterprise security tools — and 10 nice-to-haves"
+        },
+        {
+          "pos": 8,
+          "url": "https://www.mysecuretools.com/",
+          "title": "MySecureTools: Free Online Secure Tools Suite | 100% Private, No ..."
+        },
+        {
+          "pos": 9,
+          "url": "https://www.facebook.com/securetoolsLTD/",
+          "title": "Secure Tools | Bradford - Facebook"
+        },
+        {
+          "pos": 10,
+          "url": "https://securetools.app/",
+          "title": "Secure Tools — Private tools for everyday files"
+        }
+      ],
+      "verify_url": "http://127.0.0.1:8080/search?q=secure+tools"
+    }
+  ]
+}

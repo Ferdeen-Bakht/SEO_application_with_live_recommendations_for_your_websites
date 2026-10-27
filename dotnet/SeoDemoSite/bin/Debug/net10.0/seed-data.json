@@ -1,0 +1,296 @@
+[
+  {
+    "slug": "home", "path": "/",
+    "title": "Explore the World | Travel Guides and Tips",
+    "metaDescription": "Explore destination guides, sample itineraries, travel budgets, and practical tips to plan your next trip.",
+    "h1": "Explore the World",
+    "tagline": "Discover Places. Plan Better Trips.",
+    "heroImage": { "url": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=1600&q=70", "alt": "Travel map, camera and passport laid out on a table" },
+    "paragraphs": [
+      "Explore destination guides, travel itineraries, budget-planning advice, and practical information to help you prepare for your next trip.",
+      "Whether you are planning a city break, exploring a new country, or comparing travel costs, Explore the World brings useful travel information together in one place."
+    ],
+    "sections": [
+      { "heading": "Explore Destinations", "cards": [
+        { "title": "Paris, France", "text": "Discover Paris through its historic landmarks, museums, neighbourhoods, and public transport network.", "href": "/destinations/paris", "imageUrl": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=70", "imageAlt": "The Eiffel Tower in Paris" },
+        { "title": "Japan", "text": "Explore Japan's cities, cultural attractions, seasonal travel considerations, and transport options.", "href": "/destinations/japan", "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=800&q=70", "imageAlt": "A traditional pagoda in Japan" },
+        { "title": "Istanbul, Türkiye", "text": "Learn about Istanbul's historic sites, neighbourhoods, cultural heritage, and ways to explore the city.", "href": "/destinations/istanbul", "imageUrl": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?auto=format&fit=crop&w=800&q=70", "imageAlt": "Historic mosque skyline in Istanbul" }
+      ] },
+      { "heading": "Plan Your Itinerary", "paragraphs": [ "A good itinerary helps you organize sightseeing, transport, and available time. Explore sample travel plans and adapt them to your interests, schedule, and budget." ], "links": [ { "label": "Browse travel itineraries", "href": "/itineraries" } ] },
+      { "heading": "Plan Your Travel Budget", "paragraphs": [ "Understand the main expenses involved in a trip, including accommodation, transport, meals, activities, and travel insurance. Actual costs depend on your dates, travel style, and destination." ], "links": [ { "label": "Japan travel budget guide", "href": "/budget-travel/japan" } ] },
+      { "heading": "Practical Travel Tips", "paragraphs": [ "Prepare for your journey by checking passport validity, entry requirements, local transport, weather conditions, and relevant travel advisories." ], "links": [ { "label": "Read the travel tips", "href": "/travel-tips" } ] },
+      { "heading": "Travel Information You Can Verify", "paragraphs": [ "Travel requirements, prices, opening hours, and transport schedules can change. Check official sources before making bookings or travelling." ], "links": [ { "label": "Official travel resources", "href": "/resources" } ] }
+    ]
+  },
+  {
+    "slug": "destinations", "path": "/destinations",
+    "title": "Travel Destinations | Explore the World",
+    "metaDescription": "Discover travel guides for Paris, Japan, Istanbul, and other destinations, with practical trip-planning information.",
+    "h1": "Explore Travel Destinations",
+    "paragraphs": [
+      "Discover destinations through their history, culture, attractions, transport options, and practical travel information."
+    ],
+    "sections": [
+      { "heading": "Paris, France", "image": { "url": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=900&q=70", "alt": "The Eiffel Tower in Paris" },
+        "paragraphs": [ "Paris is known for its museums, historic landmarks, architecture, and neighbourhoods. Explore the Eiffel Tower, the Louvre Museum, and the banks of the River Seine." ],
+        "links": [ { "label": "Read our Paris Travel Guide", "href": "/destinations/paris" } ] },
+      { "heading": "Japan", "image": { "url": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=900&q=70", "alt": "A traditional pagoda in Japan" },
+        "paragraphs": [ "Japan offers a variety of experiences, from major cities such as Tokyo and Osaka to historic sites in Kyoto and natural landscapes across the country." ],
+        "links": [ { "label": "Read our Japan Travel Guide", "href": "/destinations/japan" } ] },
+      { "heading": "Istanbul, Türkiye", "image": { "url": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?auto=format&fit=crop&w=900&q=70", "alt": "Historic mosque skyline in Istanbul" },
+        "paragraphs": [ "Istanbul is known for its historic architecture, cultural heritage, markets, and location across Europe and Asia." ],
+        "links": [ { "label": "Read our Istanbul Travel Guide", "href": "/destinations/istanbul" } ] },
+      { "heading": "Plan Before You Travel", "paragraphs": [
+        "Check official tourism resources, entry requirements, transport information, weather conditions, and attraction opening hours before departure.",
+        "Destination information can change. Verify important details with reliable sources."
+      ] }
+    ]
+  },
+  {
+    "slug": "paris", "path": "/destinations/paris",
+    "title": "Paris Travel Guide: Places to Visit and Tips",
+    "metaDescription": "Explore Paris attractions, neighbourhoods, public transport options, and practical information for planning your visit.",
+    "h1": "Paris Travel Guide: Places to Visit and How to Plan Your Trip",
+    "heroImage": { "url": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1600&q=70", "alt": "The Eiffel Tower in Paris" },
+    "paragraphs": [
+      "Paris is the capital of France and a major destination for art, architecture, history, food, and culture. Visitors can explore historic monuments, museums, gardens, and neighbourhoods throughout the city."
+    ],
+    "sections": [
+      { "heading": "Places to Visit in Paris", "paragraphs": [
+        "The Eiffel Tower is one of Paris's best-known landmarks. The Louvre Museum houses an extensive art collection, while the Arc de Triomphe stands at the western end of the Champs-Élysées.",
+        "Other places to explore include the Montmartre neighbourhood, the banks of the River Seine, and the historic Marais district."
+      ], "image": { "url": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=900&q=70", "alt": "Paris street scene with historic buildings" } },
+      { "heading": "Getting Around Paris", "paragraphs": [ "Paris has a public transport network that includes the Métro, RER trains, buses, and trams. The best option depends on your destination, travel distance, and ticket requirements." ] },
+      { "heading": "Planning Your Visit", "paragraphs": [ "Check attraction opening hours, ticket availability, transport fares, and access restrictions before travelling.", "For more information, read our itinerary and transport guides:" ],
+        "links": [ { "label": "3 Days in Paris itinerary", "href": "/itineraries/paris-3-days" }, { "label": "Getting Around Paris guide", "href": "/destinations/paris/transport" }, { "label": "Official information: Paris Tourist Office", "href": "https://parisjetaime.com/eng/" } ] }
+    ]
+  },
+  {
+    "slug": "japan", "path": "/destinations/japan",
+    "title": "Japan Travel Guide: Destinations and Planning",
+    "metaDescription": "Plan a trip to Japan with destination information, seasonal guidance, transport tips, and travel resources.",
+    "h1": "Japan Travel Guide: Destinations, Seasons and Planning",
+    "heroImage": { "url": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1600&q=70", "alt": "A traditional pagoda in Japan" },
+    "paragraphs": [
+      "Japan offers a range of travel experiences, from large cities such as Tokyo and Osaka to historic areas such as Kyoto and natural landscapes in regions across the country."
+    ],
+    "sections": [
+      { "heading": "What Can You Explore in Japan?", "paragraphs": [ "Tokyo offers urban attractions, shopping areas, museums, and diverse food experiences. Kyoto is known for its historic temples, shrines, and traditional districts. Osaka is known for its food culture and urban attractions." ],
+        "image": { "url": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=900&q=70", "alt": "Tokyo city street at night" } },
+      { "heading": "When Should You Visit Japan?", "paragraphs": [
+        "Japan experiences four distinct seasons, but weather and conditions vary by region. Spring is associated with cherry blossoms, while autumn is known for seasonal foliage in many areas.",
+        "Consider seasonal weather, crowds, regional festivals, and accommodation availability when choosing your dates."
+      ] },
+      { "heading": "Planning Transport", "paragraphs": [ "Japan has rail, subway, bus, and other transport options. Your best route depends on the regions you plan to visit and how often you will travel between cities." ],
+        "links": [ { "label": "Japan Travel Budget guide", "href": "/budget-travel/japan" }, { "label": "Best Time to Visit Japan", "href": "/destinations/japan/best-time-to-visit" }, { "label": "Official information: Japan National Tourism Organization", "href": "https://www.japan.travel/en/plan/" } ] }
+    ]
+  },
+  {
+    "slug": "istanbul", "path": "/destinations/istanbul",
+    "title": "Istanbul Travel Guide: Attractions and Tips",
+    "metaDescription": "Explore Istanbul's historic sites, neighbourhoods, transport options, and practical travel information.",
+    "h1": "Istanbul Travel Guide: Historic Sites and City Planning",
+    "heroImage": { "url": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?auto=format&fit=crop&w=1600&q=70", "alt": "Historic mosque skyline in Istanbul" },
+    "paragraphs": [
+      "Istanbul is a major city in Türkiye, located across Europe and Asia and shaped by centuries of Byzantine and Ottoman history."
+    ],
+    "sections": [
+      { "heading": "Places to Explore", "paragraphs": [
+        "Hagia Sophia is a landmark with a complex religious and architectural history. The Blue Mosque, Topkapı Palace, and Grand Bazaar are other notable places associated with Istanbul's history and culture.",
+        "Visitors can also explore neighbourhoods, waterfront areas, local markets, and the city's food culture."
+      ] },
+      { "heading": "Getting Around Istanbul", "paragraphs": [ "Transport options include rail-based services, buses, and ferries on selected routes. Choose transport according to your starting point, destination, and current service information." ] },
+      { "heading": "Before You Travel", "paragraphs": [
+        "Check current entry requirements, attraction access rules, opening hours, local transport information, and applicable visitor fees.",
+        "Verify practical details using reliable official resources before departure."
+      ], "links": [ { "label": "Travel information: Visit Istanbul", "href": "https://www.visitistanbul.com/" } ] }
+    ]
+  },
+  {
+    "slug": "itineraries", "path": "/itineraries",
+    "title": "Travel Itineraries | Explore the World",
+    "metaDescription": "Explore sample travel itineraries to organize sightseeing, transport, and available time for your next trip.",
+    "h1": "Travel Itineraries",
+    "heroImage": { "url": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=1600&q=70", "alt": "A road winding through scenic countryside" },
+    "paragraphs": [
+      "A travel itinerary helps organize destinations, activities, transport, and available time. A useful itinerary should allow flexibility for meals, rest, unexpected delays, and changes in local conditions."
+    ],
+    "sections": [
+      { "heading": "Three Days in Paris", "paragraphs": [ "Plan time for major landmarks, museums, historic neighbourhoods, and the River Seine." ], "links": [ { "label": "Read the itinerary", "href": "/itineraries/paris-3-days" } ] },
+      { "heading": "Plan Your Own Itinerary", "paragraphs": [
+        "Start by choosing your destination and travel dates. Group nearby attractions to reduce unnecessary travel and check the opening hours of places you want to visit.",
+        "Consider transport times, ticket availability, meal breaks, and the interests of everyone travelling with you."
+      ] },
+      { "heading": "Check Before Departure", "paragraphs": [
+        "Confirm attraction opening hours, reservation requirements, transport schedules, and any temporary closures.",
+        "Sample itineraries are planning suggestions rather than guarantees that every activity can be completed within a specific time."
+      ] }
+    ]
+  },
+  {
+    "slug": "paris-3-days", "path": "/itineraries/paris-3-days",
+    "title": "3 Days in Paris: Sample Travel Itinerary",
+    "metaDescription": "Plan three days in Paris with a sample itinerary covering major landmarks, museums, neighbourhoods, and travel tips.",
+    "h1": "3 Days in Paris: A Sample Itinerary for First-Time Visitors",
+    "heroImage": { "url": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=1600&q=70", "alt": "Paris street scene with historic buildings" },
+    "paragraphs": [
+      "Three days in Paris can provide time to explore major landmarks, visit a museum, and discover different neighbourhoods. This sample itinerary groups activities geographically. Actual visiting time depends on opening hours, transport, queues, and personal interests."
+    ],
+    "sections": [
+      { "heading": "Day 1: Eiffel Tower and the Seine", "paragraphs": [
+        "Begin with the Eiffel Tower area. If you plan to go inside the tower, check ticket availability and entry times in advance.",
+        "Continue towards the Seine and explore nearby riverside areas. Choose additional attractions according to your available time."
+      ] },
+      { "heading": "Day 2: The Louvre and Historic Paris", "paragraphs": [
+        "Plan a visit to the Louvre Museum, allowing enough time for the collection you want to see. Confirm the museum's opening days and ticket arrangements before your visit.",
+        "Explore the surrounding central Paris area on foot, with stops selected according to your interests."
+      ] },
+      { "heading": "Day 3: Montmartre and the Arc de Triomphe", "paragraphs": [ "Explore Montmartre and its historic streets. Later, visit the Arc de Triomphe area and the Champs-Élysées if time allows." ] },
+      { "heading": "How to Adapt This Itinerary", "items": [
+        "Check opening hours and book timed-entry attractions where required.",
+        "Group nearby places to reduce unnecessary travel.",
+        "Allow time for meals, breaks, and transport.",
+        "Check public transport service updates on the day."
+      ], "links": [ { "label": "Read our Paris Travel Guide", "href": "/destinations/paris" }, { "label": "Read Getting Around Paris", "href": "/destinations/paris/transport" } ],
+        "paragraphs": [ "This is a suggested route, not a guarantee that every attraction can be visited within the stated time." ] }
+    ]
+  },
+  {
+    "slug": "japan-budget", "path": "/budget-travel/japan",
+    "title": "Japan Travel Budget: Trip Cost Planning",
+    "metaDescription": "Estimate your Japan travel budget by planning accommodation, transport, meals, attractions, and other trip expenses.",
+    "h1": "Japan Travel Budget: How to Estimate the Cost of a Trip",
+    "heroImage": { "url": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1600&q=70", "alt": "Tokyo city street at night" },
+    "paragraphs": [
+      "The cost of travelling in Japan depends on your travel dates, accommodation, destinations, transport choices, meals, and activities. Instead of relying on a single estimated price, calculate the main expenses for your own itinerary."
+    ],
+    "sections": [
+      { "heading": "1. Accommodation", "paragraphs": [ "Compare accommodation options by location, room type, dates, and cancellation conditions. A convenient location may reduce the time and cost required to reach attractions." ] },
+      { "heading": "2. Local and Intercity Transport", "paragraphs": [ "Include airport transfers, local journeys, and travel between cities. Compare available fares and route options before deciding whether a transport pass is worthwhile." ] },
+      { "heading": "3. Food and Drinks", "paragraphs": [ "Estimate daily food expenses according to your preferences and planned activities. Check current menu prices when available." ] },
+      { "heading": "4. Attractions and Activities", "paragraphs": [ "List the museums, tours, and attractions you intend to visit. Confirm current admission fees and reservation requirements using official websites." ] },
+      { "heading": "5. Other Expenses", "paragraphs": [ "Account for flights, travel insurance, mobile connectivity, shopping, and an emergency allowance." ] },
+      { "heading": "Create Your Budget", "paragraphs": [
+        "Calculate your expected total by adding transport, accommodation, meals, activities, and other planned expenses. Convert currencies using a current exchange rate and record when your estimates were checked.",
+        "Actual costs will vary, so verify prices for your travel dates before booking."
+      ], "links": [ { "label": "Japan Travel Guide", "href": "/destinations/japan" } ] }
+    ]
+  },
+  {
+    "slug": "travel-tips", "path": "/travel-tips",
+    "title": "International Travel Planning Tips",
+    "metaDescription": "Prepare for an international trip with practical advice on documents, accommodation, transport, budgeting, and local conditions.",
+    "h1": "Travel Planning Tips: Prepare for an International Trip",
+    "heroImage": { "url": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&w=1600&q=70", "alt": "Passport and travel documents ready for a trip" },
+    "paragraphs": [
+      "Good travel preparation helps you organize documents, bookings, transport, and expenses before departure."
+    ],
+    "sections": [
+      { "heading": "Check Passport and Entry Requirements", "paragraphs": [ "Confirm passport validity, visa requirements, permitted length of stay, and other entry conditions using official government sources for your nationality and destination." ] },
+      { "heading": "Plan Flights and Accommodation", "paragraphs": [ "Review your travel dates, baggage allowance, arrival airport, accommodation location, and booking conditions. Keep copies of important reservations accessible during your trip." ] },
+      { "heading": "Research Local Transport", "paragraphs": [ "Understand how to travel between the airport, accommodation, and planned attractions. Check official transport websites for current fares, timetables, and service disruptions." ] },
+      { "heading": "Prepare a Travel Budget", "paragraphs": [ "Estimate transport, accommodation, meals, admission fees, insurance, and other expenses. Keep some flexibility for unexpected costs." ] },
+      { "heading": "Check Weather and Local Conditions", "paragraphs": [ "Review a reliable forecast close to departure and pack accordingly. Check official travel advisories and local guidance where relevant." ] },
+      { "heading": "Keep Important Information Accessible", "paragraphs": [
+        "Save booking confirmations, emergency contact details, insurance information, and relevant embassy or consular contact details.",
+        "Review these details before departure and again when necessary during your journey."
+      ] }
+    ]
+  },
+  {
+    "slug": "paris-transport", "path": "/destinations/paris/transport",
+    "title": "Getting Around Paris: Public Transport Guide",
+    "metaDescription": "Learn about the Paris Métro, RER, buses, and trams and how to check current fares and transport information.",
+    "h1": "Getting Around Paris: Public Transport Guide",
+    "paragraphs": [
+      "Paris has several public transport options for travelling around the city and reaching destinations in the wider region."
+    ],
+    "sections": [
+      { "heading": "Paris Métro", "paragraphs": [ "The Métro serves many parts of Paris and is useful for reaching major neighbourhoods and attractions. Check route maps and station information before travelling." ] },
+      { "heading": "RER Trains", "paragraphs": [ "RER services connect central Paris with destinations beyond the city centre. Check your route carefully because fares and ticket requirements can vary by journey." ] },
+      { "heading": "Buses and Trams", "paragraphs": [ "Buses and trams provide additional connections across the city and surrounding areas. They may be useful for routes that are less convenient by Métro." ] },
+      { "heading": "Tickets and Fares", "paragraphs": [ "Ticket rules, prices, and travel conditions may change. Consult official transport information before purchasing tickets." ] },
+      { "heading": "Plan Your Journey", "paragraphs": [ "Check service updates, allow time for transfers, and confirm the route to your accommodation and planned attractions." ],
+        "links": [ { "label": "Read our Paris Travel Guide", "href": "/destinations/paris" }, { "label": "Official tourism information: Paris Tourist Office", "href": "https://parisjetaime.com/eng/" } ] }
+    ]
+  },
+  {
+    "slug": "japan-best-time", "path": "/destinations/japan/best-time-to-visit",
+    "title": "Best Time to Visit Japan: Seasons and Travel Tips",
+    "metaDescription": "Compare Japan's seasons and consider regional weather, seasonal attractions, and travel dates when planning a trip.",
+    "h1": "Best Time to Visit Japan: Seasons and Travel Planning",
+    "heroImage": { "url": "https://images.unsplash.com/photo-1522383225653-ed111181a951?auto=format&fit=crop&w=1600&q=70", "alt": "Cherry blossoms in bloom in Japan" },
+    "paragraphs": [
+      "The best time to visit Japan depends on your destination, interests, budget, and tolerance for crowds. Weather and seasonal conditions vary across the country."
+    ],
+    "sections": [
+      { "heading": "Spring", "paragraphs": [ "Spring is associated with cherry blossoms in many areas. Blooming periods vary by location and year, so check current forecasts before planning a trip around them." ] },
+      { "heading": "Summer", "paragraphs": [ "Summer can bring hot and humid conditions in many regions. Research local weather and seasonal conditions for your destination and travel dates." ] },
+      { "heading": "Autumn", "paragraphs": [ "Autumn is known for colourful foliage in many parts of Japan. Timing varies by region and year." ] },
+      { "heading": "Winter", "paragraphs": [ "Winter conditions differ significantly between regions. Some destinations experience snow, while others have milder weather." ] },
+      { "heading": "Choose Your Travel Dates", "paragraphs": [ "Consider weather, seasonal events, accommodation availability, expected crowds, and transport arrangements. Check current information close to departure." ],
+        "links": [ { "label": "Read our Japan Travel Guide", "href": "/destinations/japan" }, { "label": "Official travel planning information: Japan National Tourism Organization", "href": "https://www.japan.travel/en/plan/" } ] }
+    ]
+  },
+  {
+    "slug": "resources", "path": "/resources",
+    "title": "Official Travel Resources | Explore the World",
+    "metaDescription": "Find official tourism, government, and transport resources to verify travel information before departure.",
+    "h1": "Official Travel Resources",
+    "heroImage": { "url": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=1600&q=70", "alt": "Aircraft wing seen from a window above the clouds" },
+    "paragraphs": [
+      "Use reliable sources to verify important information before travelling."
+    ],
+    "sections": [
+      { "heading": "France and Paris", "paragraphs": [ "The Paris Tourist Office provides destination information and local travel guidance." ], "links": [ { "label": "Website: parisjetaime.com", "href": "https://parisjetaime.com/eng/" } ] },
+      { "heading": "Japan", "paragraphs": [ "The Japan National Tourism Organization provides travel planning information and guidance for visitors." ], "links": [ { "label": "Website: japan.travel", "href": "https://www.japan.travel/en/plan/" } ] },
+      { "heading": "Istanbul", "paragraphs": [ "Consult destination information and visitor guidance before planning activities in Istanbul." ], "links": [ { "label": "Website: visitistanbul.com", "href": "https://www.visitistanbul.com/" } ] },
+      { "heading": "Entry Requirements", "paragraphs": [ "Consult the official immigration authority or embassy relevant to your nationality and destination. Requirements vary by traveller and can change." ] },
+      { "heading": "Transport", "paragraphs": [ "Check the official transport operator's website for current fares, schedules, routes, and service updates." ] },
+      { "heading": "Verify Before You Travel", "paragraphs": [ "Check publication or update dates and confirm that information applies to your travel dates and circumstances." ] }
+    ]
+  },
+  {
+    "slug": "about", "path": "/about",
+    "title": "About Explore the World",
+    "metaDescription": "Learn about Explore the World's approach to destination guides, travel planning, budgeting, and practical travel information.",
+    "h1": "About Explore the World",
+    "paragraphs": [
+      "Explore the World is a travel information website focused on destination guides, travel planning, sample itineraries, budgeting, and practical travel advice.",
+      "Our goal is to make travel information easier to navigate by organizing it into clear guides and connecting related topics.",
+      "We distinguish general travel guidance from information that must be checked for specific dates or individual circumstances.",
+      "We do not present sample itineraries as personal travel experiences. Destination facts, entry requirements, prices, and other changeable details should be checked against reliable sources before publication or travel."
+    ],
+    "sections": [
+      { "heading": "Learn more", "links": [ { "label": "Editorial policy and content updates", "href": "/editorial-policy" }, { "label": "Contact us", "href": "/contact" } ] }
+    ]
+  },
+  {
+    "slug": "contact", "path": "/contact",
+    "title": "Contact Explore the World",
+    "metaDescription": "Contact Explore the World with questions about our travel guides or suggestions for factual corrections.",
+    "h1": "Contact Explore the World",
+    "paragraphs": [
+      "Have a question about our travel guides or noticed information that may need updating?",
+      "Use the contact form on this page to submit your message.",
+      "When reporting a potential error, include the relevant page URL and a reliable source that supports the correction.",
+      "Please do not submit sensitive personal information or passport details through the contact form."
+    ],
+    "sections": []
+  },
+  {
+    "slug": "editorial-policy", "path": "/editorial-policy",
+    "title": "Editorial Policy and Content Updates | Explore the World",
+    "metaDescription": "Learn how Explore the World approaches travel information accuracy, source verification, content updates, and AI-assisted editing.",
+    "h1": "Editorial Policy and Content Updates",
+    "paragraphs": [
+      "Explore the World aims to provide clear, useful, and verifiable travel information."
+    ],
+    "sections": [
+      { "heading": "Accuracy and Sources", "paragraphs": [ "Destination facts and practical travel details should be checked against official tourism bodies, government sources, transport operators, or other reliable references." ] },
+      { "heading": "Updating Content", "paragraphs": [ "Information such as ticket prices, opening hours, visa rules, transport schedules, and local travel conditions may change. Pages containing these details should be reviewed periodically." ] },
+      { "heading": "AI-Assisted Content", "paragraphs": [ "AI tools may be used to identify content gaps, suggest headings, improve readability, and draft SEO changes. Proposed changes should be reviewed for accuracy before publication." ] },
+      { "heading": "Corrections", "paragraphs": [ "When an error is identified, review the relevant source and correct the published information. Record meaningful changes so that content updates can be tracked." ] }
+    ]
+  }
+]

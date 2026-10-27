@@ -1,0 +1,127 @@
+{
+  "created_at": "2026-10-26T06:37:51+00:00",
+  "local_site": "abetglobal.com",
+  "competitors": [
+    "forex.tradingcharts.com",
+    "home.saxo",
+    "schwab.com",
+    "tastyfx.com"
+  ],
+  "local_summary": {
+    "pages": 10.0,
+    "score": 84.1,
+    "title_len": 50.0,
+    "desc_len": 132.4,
+    "h2_count": 3.9,
+    "word_count": 1017.6,
+    "image_count": 6.2,
+    "alt_coverage": 99.0,
+    "internal_links": 38.5,
+    "external_links": 14.7,
+    "url_depth": 1.2,
+    "has_jsonld": 40.0,
+    "has_canonical": 100.0
+  },
+  "competitor_average": {
+    "pages": 9.75,
+    "score": 80.67500000000001,
+    "title_len": 43.574999999999996,
+    "desc_len": 137.8,
+    "h2_count": 7.425000000000001,
+    "word_count": 998.0,
+    "image_count": 18.9,
+    "alt_coverage": 58.474999999999994,
+    "internal_links": 143.875,
+    "external_links": 16.425,
+    "url_depth": 1.325,
+    "has_jsonld": 49.45,
+    "has_canonical": 71.95
+  },
+  "insights": [
+    {
+      "area": "Subheadings (H2)",
+      "local": "3.9",
+      "competitors": "7.4",
+      "recommendation": "Competitors break topics into more sections. Add descriptive subheadings.",
+      "priority": "medium"
+    },
+    {
+      "area": "Structured data (% pages)",
+      "local": "40",
+      "competitors": "49",
+      "recommendation": "Competitors publish JSON-LD. Add schema.org markup to the site template (developer task).",
+      "priority": "medium"
+    },
+    {
+      "area": "Image alt text (%)",
+      "local": "99",
+      "competitors": "58",
+      "recommendation": "Add descriptive alt text to every image.",
+      "priority": "high"
+    },
+    {
+      "area": "Images per page",
+      "local": "6.2",
+      "competitors": "18.9",
+      "recommendation": "Competitors use more imagery. Add relevant images with alt text.",
+      "priority": "low"
+    },
+    {
+      "area": "Internal links",
+      "local": "38",
+      "competitors": "144",
+      "recommendation": "Link related guides together so visitors and crawlers can navigate between topics.",
+      "priority": "low"
+    }
+  ],
+  "keyword_gaps": [
+    {
+      "term": "online",
+      "competitor_sites": 4
+    },
+    {
+      "term": "trade",
+      "competitor_sites": 4
+    },
+    {
+      "term": "account",
+      "competitor_sites": 3
+    },
+    {
+      "term": "asked",
+      "competitor_sites": 2
+    },
+    {
+      "term": "basics",
+      "competitor_sites": 2
+    },
+    {
+      "term": "cash",
+      "competitor_sites": 2
+    },
+    {
+      "term": "choose",
+      "competitor_sites": 2
+    },
+    {
+      "term": "commissions",
+      "competitor_sites": 2
+    },
+    {
+      "term": "currency",
+      "competitor_sites": 2
+    },
+    {
+      "term": "data",
+      "competitor_sites": 2
+    },
+    {
+      "term": "earn",
+      "competitor_sites": 2
+    },
+    {
+      "term": "eur",
+      "competitor_sites": 2
+    }
+  ]
+}
