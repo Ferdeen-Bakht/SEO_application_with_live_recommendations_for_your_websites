@@ -1,4 +1,4 @@
-# AI SEO Lab: live-site review (appcreatorz.com)
+# AI SEO Lab: live-site review 
 
 A **read-only** SEO review tool. It crawls a live website, finds problems, asks a local AI model (Ollama) for suggested rewrites, and compares the site against competitors. It **never changes the website**: accepted suggestions are saved as a hand-off list for a developer.
 
